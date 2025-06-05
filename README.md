@@ -1,5 +1,5 @@
 # 📊 Análisis de Datos - Reporte de Ventas Campaña Online
-
+![Reporte de Ventas](https://image.lexica.art/full_webp/30ce456a-6d10-42e2-b554-c2fa15bacbe4)
 Este repositorio contiene el análisis detallado del reporte de ventas generado durante una campaña de marketing online. El objetivo es identificar patrones de comportamiento, evaluar el rendimiento de la campaña y generar insights accionables para futuras estrategias.
 
 ## 🚀 Objetivos del Proyecto
